@@ -117,3 +117,5 @@ main()
         console.error("Microservice failed to start.");
         console.error(err && err.stack || err);
     });
+
+console.log("this is a test");
