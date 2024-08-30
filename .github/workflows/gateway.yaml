@@ -8,7 +8,7 @@
 name: Deploy gateway
 
 on:
-  #
+  # 
   # Deploy the microservice on push to any branch of this code repository.
   #
   push: 

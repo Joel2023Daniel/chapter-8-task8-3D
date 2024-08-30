@@ -8,7 +8,7 @@
 name: Deploy video-streaming
 
 on:
-  #
+  # 
   # Deploys the microservice on push to the specified subdirectory in the main branch of this code repository.
   #
   push: 
